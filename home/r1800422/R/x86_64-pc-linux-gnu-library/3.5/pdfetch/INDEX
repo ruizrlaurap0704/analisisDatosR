@@ -1,0 +1,19 @@
+pdfetch                 A package for downloading economic and
+                        financial time series from public sources.
+pdfetch_BLS             Fetch data from U.S. Bureau of Labor Statistics
+pdfetch_BOE             Fetch data from the Bank of England Interactive
+                        Statistical Database
+pdfetch_BUNDESBANK      Fetch data from the Deutsche Bundesbank
+pdfetch_ECB             Fetch data from European Central Bank's
+                        statistical data warehouse
+pdfetch_EIA             Fetch data from the US Energy Information
+                        Administration
+pdfetch_EUROSTAT        Fetch data from Eurostat
+pdfetch_EUROSTAT_DSD    Fetch description for a Eurostat dataset
+pdfetch_FRED            Fetch data from St Louis Fed's FRED database
+pdfetch_INSEE           Fetch data from the French National Institute
+                        of Statistics and Economic Studies (INSEE)
+pdfetch_ONS             Fetch data from the UK Office of National
+                        Statistics
+pdfetch_WB              Fetch data from World Bank
+pdfetch_YAHOO           Fetch data from Yahoo Finance

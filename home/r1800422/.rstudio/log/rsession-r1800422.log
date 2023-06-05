@@ -1,0 +1,6 @@
+2023-06-05T18:43:56.933626Z [rsession-r1800422] INFO Reading rsession configuration from '/etc/rstudio/rsession.conf'
+2023-06-05T18:43:57.026798Z [rsession-r1800422] INFO Set CRAN URL for session to 'https://cran.rstudio.com/' (source: preference defaults)
+2023-06-05T18:43:58.398532Z [rsession-r1800422] INFO No admin notifications found at /etc/rstudio/notifications.conf
+2023-06-05T18:43:59.098905Z [rsession-r1800422] INFO No keybindings/addins.json found at /etc/rstudio/keybindings/addins.json
+2023-06-05T18:43:59.099498Z [rsession-r1800422] INFO No keybindings/rstudio_bindings.json found at /etc/rstudio/keybindings/rstudio_bindings.json
+2023-06-05T18:43:59.099790Z [rsession-r1800422] INFO No keybindings/editor_bindings.json found at /etc/rstudio/keybindings/editor_bindings.json

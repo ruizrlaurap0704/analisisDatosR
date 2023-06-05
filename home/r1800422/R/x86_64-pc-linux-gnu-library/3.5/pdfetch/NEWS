@@ -1,0 +1,74 @@
+Version 0.2.3
+--------------------------------------
+* Fixed error in Yahoo Finance function which swapped adjusted close and volume fields.
+* Fixed error in BLS function which prevented downloading of single series.
+
+Version 0.2.2
+--------------------------------------
+* Fixed Yahoo Finance function and added 'interval' argument
+* Fixed UK ONS function
+* Fixed French INSEE function
+* Added support for hourly data to the US EIA function
+
+Version 0.2.1
+--------------------------------------
+* Added support for Deutsche Bundesbank's time series database
+
+Version 0.2.0
+--------------------------------------
+* Fixed Yahoo function so that Volume column is correctly read as numeric instead of character. This bug was also causing problems when downloading more than two tickers.
+
+Version 0.1.9
+--------------------------------------
+* Fixed INSEE function so that negative signs and periods are not stripped (thanks to Hadrian Leclerc)
+
+Version 0.1.8
+--------------------------------------
+
+* Fixed UK Office of National Statistics (ONS) functionality. Note that the pdfetch_ONS function is designed to retrieve series from the ONS Time Series Explorer (https://www.ons.gov.uk/timeseriestool), not the UK ONS API.
+* Fixed Bureau of Labor Statistics functionality.
+* Fixed INSEE functionality.
+* Fixed Energy Information Administration functionality.
+* Various other fixes
+
+Version 0.1.7
+--------------------------------------
+
+* Fixed URL for St Louis FRED service.
+
+Version 0.1.6
+--------------------------------------
+
+* Added support for US Energy Information Administration API
+* Wrapped examples with tryCatch to stop temporary web service problems from being flagged on CRAN.
+* Switched from using RCurl directly to the httr package.
+
+Version 0.1.5
+--------------------------------------
+
+* Fixed a bug in the handling of ECB monthly dates (thanks to Fabian Greimel)
+
+Version 0.1.4
+--------------------------------------
+
+* Fixed a bug in the handling of Eurostat monthly dates (thanks to Chiara Carini)
+
+Version 0.1.3
+--------------------------------------
+
+* Added support for US Bureau of Labor Statistics, UK ONS, and French INSEE
+
+Version 0.1.2
+--------------------------------------
+
+* Added support for Bank of England's Interactive Statistical Database
+
+Version 0.1.1
+--------------------------------------
+
+* Removed reliance on curl.exe on Windows
+
+Version 0.1
+--------------------------------------
+
+* Initial release

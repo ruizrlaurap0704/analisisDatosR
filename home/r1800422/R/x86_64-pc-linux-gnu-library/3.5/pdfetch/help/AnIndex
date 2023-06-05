@@ -1,0 +1,14 @@
+pdfetch-package	pdfetch
+pdfetch	pdfetch
+pdfetch_BLS	pdfetch_BLS
+pdfetch_BOE	pdfetch_BOE
+pdfetch_BUNDESBANK	pdfetch_BUNDESBANK
+pdfetch_ECB	pdfetch_ECB
+pdfetch_EIA	pdfetch_EIA
+pdfetch_EUROSTAT	pdfetch_EUROSTAT
+pdfetch_EUROSTAT_DSD	pdfetch_EUROSTAT_DSD
+pdfetch_FRED	pdfetch_FRED
+pdfetch_INSEE	pdfetch_INSEE
+pdfetch_ONS	pdfetch_ONS
+pdfetch_WB	pdfetch_WB
+pdfetch_YAHOO	pdfetch_YAHOO
